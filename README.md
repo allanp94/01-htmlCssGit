@@ -5,7 +5,7 @@ Refactoring the code from the urban-octo-telegram repository in order to complet
 ## Actions
 
 **Steps**
-Markup: \* Cloned the urban-octo-telegram repository to my system and followed the instruction from the following website
+Cloned the urban-octo-telegram repository to my system and followed the instruction from the following website
 https://stackoverflow.com/questions/18200248/cloning-a-repo-from-someone-elses-github-and-pushing-it-to-a-repo-on-my-github
 so my changes would be pushed to my own 01-htmlCssGit repository
 
