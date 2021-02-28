@@ -31,7 +31,7 @@ so my changes would be pushed to my own 01-htmlCssGit repository
 
 ## SCREENSHOT
 
-Markup: - ![picture alt](refactored-website-screenshot.png "Screenshot of my refactored Horiseon website")
+![picture alt](refactored-website-screenshot.png "Screenshot of my refactored Horiseon website")
 
 ## LINK TO THE DEPLOYED APPLICATION
 
