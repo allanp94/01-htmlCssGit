@@ -27,11 +27,11 @@ so my changes would be pushed to my own 01-htmlCssGit repository
     - WHEN I view the title element
     - THEN I find a concise, descriptive title
   - Mock Up
-    - NEED TO ADD PICTURE OF THE MOCK-UP
+    - ![picture alt](01-html-css-git-mock-up.png "Mock-up picture from the assignment")
 
 ## SCREENSHOT
 
-![picture alt](01-html-css-git-mock-up.png "Title is optional")
+    - ![picture alt](_Users_allan_Documents_BootCampRepository_challengeAssignments_urban-octo-telegram_index.html.png "Screenshot of my refactored Horiseon website")
 
 ## LINK TO THE DEPLOYED APPLICATION
 
