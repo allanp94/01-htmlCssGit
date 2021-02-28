@@ -6,7 +6,7 @@ Refactoring the code from the urban-octo-telegram repository in order to complet
 
 **Steps**
 Markup: \* Cloned the urban-octo-telegram repository to my system and followed the instruction from the following website
-(https://stackoverflow.com/questions/18200248/cloning-a-repo-from-someone-elses-github-and-pushing-it-to-a-repo-on-my-github)
+https://stackoverflow.com/questions/18200248/cloning-a-repo-from-someone-elses-github-and-pushing-it-to-a-repo-on-my-github
 so my changes would be pushed to my own 01-htmlCssGit repository
 
 - Viewed the code and made appropriate changes in order to meet the Challenge Requirements
@@ -31,8 +31,8 @@ so my changes would be pushed to my own 01-htmlCssGit repository
 
 ## SCREENSHOT
 
-Markup : ![picture alt](https://github.com/allanp94/01-htmlCssGit/blob/master/01-html-css-git-mock-up.png/500X500 "Title is optional")
+![picture alt](01-html-css-git-mock-up.png "Title is optional")
 
 ## LINK TO THE DEPLOYED APPLICATION
 
-(https://allanp94.github.io/01-htmlCssGit/)
+https://allanp94.github.io/01-htmlCssGit/
