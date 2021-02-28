@@ -4,7 +4,7 @@ Refactoring the code from the urban-octo-telegram repository in order to complet
 
 ## Actions
 
-**Steps**
+**Steps**\
 Cloned the urban-octo-telegram repository to my system and followed the instruction from the following website
 https://stackoverflow.com/questions/18200248/cloning-a-repo-from-someone-elses-github-and-pushing-it-to-a-repo-on-my-github
 so my changes would be pushed to my own 01-htmlCssGit repository
@@ -27,7 +27,7 @@ so my changes would be pushed to my own 01-htmlCssGit repository
     - WHEN I view the title element
     - THEN I find a concise, descriptive title
   - Mock Up
-    - ![picture alt](01-html-css-git-mock-up.png "Mock-up picture from the assignment")
+    ![picture alt](01-html-css-git-mock-up.png "Mock-up picture from the assignment")
 
 ## SCREENSHOT
 
